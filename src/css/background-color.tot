@@ -1,0 +1,21 @@
+<d:css>
+{{ components.background-color-red, ./src/css/background-color }}
+{{ components.background-color-pink, ./src/css/background-color }}
+{{ components.background-color-purple, ./src/css/background-color }}
+{{ components.background-color-deeppurple, ./src/css/background-color }}
+{{ components.background-color-indigo, ./src/css/background-color }}
+{{ components.background-color-blue, ./src/css/background-color }}
+{{ components.background-color-lightblue, ./src/css/background-color }}
+{{ components.background-color-cyan, ./src/css/background-color }}
+{{ components.background-color-teal, ./src/css/background-color }}
+{{ components.background-color-green, ./src/css/background-color }}
+{{ components.background-color-lightgreen, ./src/css/background-color }}
+{{ components.background-color-lime, ./src/css/background-color }}
+{{ components.background-color-yellow, ./src/css/background-color }}
+{{ components.background-color-amber, ./src/css/background-color }}
+{{ components.background-color-orange, ./src/css/background-color }}
+{{ components.background-color-deeporange, ./src/css/background-color }}
+{{ components.background-color-brown, ./src/css/background-color }}
+{{ components.background-color-bluegrey, ./src/css/background-color }}
+{{ components.background-color-grey, ./src/css/background-color }}
+</d:css>

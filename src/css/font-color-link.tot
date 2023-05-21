@@ -1,0 +1,21 @@
+<d:css>
+{{ components.font-color-link-red, ./src/css/font-color-link }}
+{{ components.font-color-link-pink, ./src/css/font-color-link }}
+{{ components.font-color-link-purple, ./src/css/font-color-link }}
+{{ components.font-color-link-deeppurple, ./src/css/font-color-link }}
+{{ components.font-color-link-indigo, ./src/css/font-color-link }}
+{{ components.font-color-link-blue, ./src/css/font-color-link }}
+{{ components.font-color-link-lightblue, ./src/css/font-color-link }}
+{{ components.font-color-link-cyan, ./src/css/font-color-link }}
+{{ components.font-color-link-teal, ./src/css/font-color-link }}
+{{ components.font-color-link-green, ./src/css/font-color-link }}
+{{ components.font-color-link-lightgreen, ./src/css/font-color-link }}
+{{ components.font-color-link-lime, ./src/css/font-color-link }}
+{{ components.font-color-link-yellow, ./src/css/font-color-link }}
+{{ components.font-color-link-amber, ./src/css/font-color-link }}
+{{ components.font-color-link-orange, ./src/css/font-color-link }}
+{{ components.font-color-link-deeporange, ./src/css/font-color-link }}
+{{ components.font-color-link-brown, ./src/css/font-color-link }}
+{{ components.font-color-link-bluegrey, ./src/css/font-color-link }}
+{{ components.font-color-link-grey, ./src/css/font-color-link }}
+</d:css>

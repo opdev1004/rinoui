@@ -1,0 +1,18 @@
+<d:css>
+{{ components.margin, ./src/css/ }}
+{{ components.padding, ./src/css/ }}
+{{ components.display, ./src/css/ }}
+{{ components.position, ./src/css/ }}
+{{ components.font-color, ./src/css/ }}
+{{ components.font-color-link, ./src/css/ }}
+{{ components.font-color-visited, ./src/css/ }}
+{{ components.font-color-hover, ./src/css/ }}
+{{ components.font-color-active, ./src/css/ }}
+{{ components.background-color, ./src/css/ }}
+{{ components.background-color-hover , ./src/css/ }}
+{{ components.background-color-active , ./src/css/ }}
+{{ components.border, ./src/css/ }}
+{{ components.border-radius, ./src/css/ }}
+{{ components.border-width, ./src/css/ }}
+{{ components.border-color, ./src/css/ }}
+</d:css>

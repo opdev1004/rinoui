@@ -1,0 +1,21 @@
+<d:css>
+{{ components.font-color-red, ./src/css/font-color }}
+{{ components.font-color-pink, ./src/css/font-color }}
+{{ components.font-color-purple, ./src/css/font-color }}
+{{ components.font-color-deeppurple, ./src/css/font-color }}
+{{ components.font-color-indigo, ./src/css/font-color }}
+{{ components.font-color-blue, ./src/css/font-color }}
+{{ components.font-color-lightblue, ./src/css/font-color }}
+{{ components.font-color-cyan, ./src/css/font-color }}
+{{ components.font-color-teal, ./src/css/font-color }}
+{{ components.font-color-green, ./src/css/font-color }}
+{{ components.font-color-lightgreen, ./src/css/font-color }}
+{{ components.font-color-lime, ./src/css/font-color }}
+{{ components.font-color-yellow, ./src/css/font-color }}
+{{ components.font-color-amber, ./src/css/font-color }}
+{{ components.font-color-orange, ./src/css/font-color }}
+{{ components.font-color-deeporange, ./src/css/font-color }}
+{{ components.font-color-brown, ./src/css/font-color }}
+{{ components.font-color-bluegrey, ./src/css/font-color }}
+{{ components.font-color-grey, ./src/css/font-color }}
+</d:css>

@@ -1,0 +1,42 @@
+<d:css>
+/* 
+* The names for border style contains prefix 'border' because some names are same from others
+* For the future update, we maintain these as how they are named 
+*/
+
+.bd-dotted {
+    border-style: dotted;
+}
+
+.bd-solid {
+    border-style: solid;
+}
+
+.bd-double {
+    border-style: double;
+}
+
+.bd-groove {
+    border-style: groove;
+}
+
+.bd-ridge {
+    border-style: ridge;
+}
+
+.bd-inset {
+    border-style: inset;
+}
+
+.bd-outset {
+    border-style: outset;
+}
+
+.bd-none {
+    border-style: none;
+}
+
+.bd-hidden {
+    border-style: hidden;
+}
+</d:css>

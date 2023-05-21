@@ -1,0 +1,32 @@
+{
+  "name": "rinoui",
+  "version": "0.0.0",
+  "description": "Rino UI",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opdev1004/rinoui.git"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdev1004/rinoui/issues"
+  },
+  "homepage": "https://github.com/opdev1004/rinoui#readme",
+  "dependencies": {
+    "rinocss": "^0.0.3"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.4",
+    "css-minimizer-webpack-plugin": "^5.0.0",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}

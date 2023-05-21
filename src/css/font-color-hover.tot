@@ -1,0 +1,21 @@
+<d:css>
+{{ components.font-color-hover-red, ./src/css/font-color-hover }}
+{{ components.font-color-hover-pink, ./src/css/font-color-hover }}
+{{ components.font-color-hover-purple, ./src/css/font-color-hover }}
+{{ components.font-color-hover-deeppurple, ./src/css/font-color-hover }}
+{{ components.font-color-hover-indigo, ./src/css/font-color-hover }}
+{{ components.font-color-hover-blue, ./src/css/font-color-hover }}
+{{ components.font-color-hover-lightblue, ./src/css/font-color-hover }}
+{{ components.font-color-hover-cyan, ./src/css/font-color-hover }}
+{{ components.font-color-hover-teal, ./src/css/font-color-hover }}
+{{ components.font-color-hover-green, ./src/css/font-color-hover }}
+{{ components.font-color-hover-lightgreen, ./src/css/font-color-hover }}
+{{ components.font-color-hover-lime, ./src/css/font-color-hover }}
+{{ components.font-color-hover-yellow, ./src/css/font-color-hover }}
+{{ components.font-color-hover-amber, ./src/css/font-color-hover }}
+{{ components.font-color-hover-orange, ./src/css/font-color-hover }}
+{{ components.font-color-hover-deeporange, ./src/css/font-color-hover }}
+{{ components.font-color-hover-brown, ./src/css/font-color-hover }}
+{{ components.font-color-hover-bluegrey, ./src/css/font-color-hover }}
+{{ components.font-color-hover-grey, ./src/css/font-color-hover }}
+</d:css>
