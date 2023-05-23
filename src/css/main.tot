@@ -15,4 +15,9 @@
 {{ components.border-radius, ./src/css/ }}
 {{ components.border-width, ./src/css/ }}
 {{ components.border-color, ./src/css/ }}
+{{ components.fixed-size, ./src/css/ }}
+{{ components.flex-size, ./src/css/ }}
+{{ components.align, ./src/css/ }}
+{{ components.text, ./src/css/ }}
+{{ components.layout, ./src/css/ }}
 </d:css>

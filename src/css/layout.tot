@@ -1,0 +1,29 @@
+<d:css>
+.r-main {
+    padding: 8px;
+    width: 660px;
+    min-height: 100vh;
+}
+
+.r-sidebar {
+    padding: 8px;
+    width: 320px;
+    min-height: 100vh;
+}
+
+@media all and (max-width: 966px) {
+    .r-main {
+        width: 100%;
+    }
+
+    .r-sidebar {
+        display: none;
+    }
+}
+
+@media all and (max-width: 328px) {
+    .r-sidebar {
+        width: 100%;
+    }
+}
+</d:css>
